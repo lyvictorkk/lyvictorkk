@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 Hi there, I'm lyvictorkk 👋
 
 👨‍💻 关于我
+
 一名专注于构建高质量软件与探索前沿技术的开发者。
 
 🔭 目前聚焦：AI 应用落地与智能体架构
