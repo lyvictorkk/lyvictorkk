@@ -1,11 +1,4 @@
 
-<p align="center">
-  <!-- 个人提交与获 Star 数据统计 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lyvictorkk&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  
-  <!-- 最常使用的编程语言比例 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyvictorkk&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
 
 <!--
 ## Hi there 👋
