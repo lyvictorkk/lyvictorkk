@@ -8,6 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyvictorkk&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 
+<!--
 Hi there, I'm lyvictorkk 👋
 
 👨‍💻 关于我
@@ -31,3 +32,5 @@ A developer focused on building high-quality software and exploring cutting-edge
 🌱 Continuous Learning: LLM engineering & Open-source ecosystem collaboration
 
 💬 Open to Discuss: AI tech, open-source projects & engineering best practices
+
+-->
