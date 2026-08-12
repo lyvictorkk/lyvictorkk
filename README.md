@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <p align="center">
   <!-- 个人提交与获 Star 数据统计 -->
@@ -9,6 +8,8 @@
 </p>
 
 <!--
+## Hi there 👋
+
 Hi there, I'm lyvictorkk 👋
 
 👨‍💻 关于我
