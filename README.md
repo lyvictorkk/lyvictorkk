@@ -1,19 +1,13 @@
 ## Hi there 👋
 
-<!--
-**lyvictorkk/lyvictorkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- 个人提交与获 Star 数据统计 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lyvictorkk&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
+  
+  <!-- 最常使用的编程语言比例 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyvictorkk&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Hi there, I'm lyvictorkk 👋
 
 👨‍💻 关于我
